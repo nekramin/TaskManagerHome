@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\R0m41\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\TaskManagerHome\\",
+  "WorkspaceRootPath": "C:\\Users\\R0m41\\Documents\\Projects\\home_ConsoleTaskManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E21FC9C-1A68-022C-E9D6-6412F917FF0C}|TaskManagerHome.csproj|c:\\users\\r0m41\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\projects\\taskmanagerhome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E21FC9C-1A68-022C-E9D6-6412F917FF0C}|TaskManagerHome.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E21FC9C-1A68-022C-E9D6-6412F917FF0C}|TaskManagerHome.csproj|c:\\users\\r0m41\\documents\\projects\\home_consoletaskmanager\\personaltask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E21FC9C-1A68-022C-E9D6-6412F917FF0C}|TaskManagerHome.csproj|solutionrelative:personaltask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E21FC9C-1A68-022C-E9D6-6412F917FF0C}|TaskManagerHome.csproj|c:\\users\\r0m41\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\projects\\taskmanagerhome\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E21FC9C-1A68-022C-E9D6-6412F917FF0C}|TaskManagerHome.csproj|c:\\users\\r0m41\\documents\\projects\\home_consoletaskmanager\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E21FC9C-1A68-022C-E9D6-6412F917FF0C}|TaskManagerHome.csproj|solutionrelative:task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E21FC9C-1A68-022C-E9D6-6412F917FF0C}|TaskManagerHome.csproj|c:\\users\\r0m41\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\projects\\taskmanagerhome\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E21FC9C-1A68-022C-E9D6-6412F917FF0C}|TaskManagerHome.csproj|solutionrelative:worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E21FC9C-1A68-022C-E9D6-6412F917FF0C}|TaskManagerHome.csproj|c:\\users\\r0m41\\documents\\projects\\home_consoletaskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E21FC9C-1A68-022C-E9D6-6412F917FF0C}|TaskManagerHome.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonalTask.cs",
+              "DocumentMoniker": "C:\\Users\\R0m41\\Documents\\Projects\\home_ConsoleTaskManager\\PersonalTask.cs",
+              "RelativeDocumentMoniker": "PersonalTask.cs",
+              "ToolTip": "C:\\Users\\R0m41\\Documents\\Projects\\home_ConsoleTaskManager\\PersonalTask.cs",
+              "RelativeToolTip": "PersonalTask.cs",
+              "ViewState": "AgIAABoAAABgz8zMzMwiwB8AAADjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T16:26:54.276Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\R0m41\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\TaskManagerHome\\Task.cs",
+              "DocumentMoniker": "C:\\Users\\R0m41\\Documents\\Projects\\home_ConsoleTaskManager\\Task.cs",
               "RelativeDocumentMoniker": "Task.cs",
-              "ToolTip": "C:\\Users\\R0m41\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\TaskManagerHome\\Task.cs",
+              "ToolTip": "C:\\Users\\R0m41\\Documents\\Projects\\home_ConsoleTaskManager\\Task.cs",
               "RelativeToolTip": "Task.cs",
-              "ViewState": "AgIAAAEAAAC8AQAAAAARwA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAQDMzMzPnvwgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-01T11:55:46.281Z",
               "EditorCaption": ""
@@ -40,25 +54,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WorkTask.cs",
-              "DocumentMoniker": "C:\\Users\\R0m41\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\TaskManagerHome\\WorkTask.cs",
-              "RelativeDocumentMoniker": "WorkTask.cs",
-              "ToolTip": "C:\\Users\\R0m41\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\TaskManagerHome\\WorkTask.cs",
-              "RelativeToolTip": "WorkTask.cs",
-              "ViewState": "AgIAAAIAAADg/v////8AwAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T11:58:36.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\R0m41\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\TaskManagerHome\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\R0m41\\Documents\\Projects\\home_ConsoleTaskManager\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\R0m41\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\TaskManagerHome\\Program.cs",
+              "ToolTip": "C:\\Users\\R0m41\\Documents\\Projects\\home_ConsoleTaskManager\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAABA/////98wwAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-22T14:03:03.551Z",
               "EditorCaption": ""

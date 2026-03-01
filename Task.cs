@@ -4,14 +4,26 @@ using System.Text;
 
 namespace TaskManagerHome
 {
-    public class Task : Program
+    public class Task
     {
-        public static void ShowInfo(string Title, string Description, bool isDone, string Deadline)
-        {
-            Console.Write($"Имя задачи: {Title}\nОписание задачи: {Description}\nСтатус задачи: ");
-            checkStatus(isDone);
-            Console.Write($"Дедлайн: ");
-            WorkTask.ShowDeadline(Deadline);
-        }
+        public static bool isRunning = true;
+
+        public static string title;
+        public static string description;
+        public static string deadline;
+        public static int priority;
+
+        public static bool isDone = false;
+        public static int numMenu;
+
+        public static int cntTitleTasks = 0;
+        public static int cntDescriptionTasks = 0;
+        public static int cntDeadlineTasks = 0;
+        public static int cntPriorityTasks = 0;
+
+        public static string[] allTitleTasks = new string[50];
+        public static string[] allDescriptionTasks = new string[50];
+        public static string[] allDeadlineTasks = new string[50];
+        public static string[] allPriorityTasks = new string[50];
     }
 }

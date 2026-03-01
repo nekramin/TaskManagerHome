@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\R0m41\\OneDrive\\Документы\\Projects\\TaskManagerHome\\TaskManagerHome.csproj": {}
+    "C:\\Users\\R0m41\\Documents\\Projects\\home_ConsoleTaskManager\\TaskManagerHome.csproj": {}
   },
   "projects": {
-    "C:\\Users\\R0m41\\OneDrive\\Документы\\Projects\\TaskManagerHome\\TaskManagerHome.csproj": {
+    "C:\\Users\\R0m41\\Documents\\Projects\\home_ConsoleTaskManager\\TaskManagerHome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\R0m41\\OneDrive\\Документы\\Projects\\TaskManagerHome\\TaskManagerHome.csproj",
+        "projectUniqueName": "C:\\Users\\R0m41\\Documents\\Projects\\home_ConsoleTaskManager\\TaskManagerHome.csproj",
         "projectName": "TaskManagerHome",
-        "projectPath": "C:\\Users\\R0m41\\OneDrive\\Документы\\Projects\\TaskManagerHome\\TaskManagerHome.csproj",
+        "projectPath": "C:\\Users\\R0m41\\Documents\\Projects\\home_ConsoleTaskManager\\TaskManagerHome.csproj",
         "packagesPath": "C:\\Users\\R0m41\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\R0m41\\OneDrive\\Документы\\Projects\\TaskManagerHome\\obj\\",
+        "outputPath": "C:\\Users\\R0m41\\Documents\\Projects\\home_ConsoleTaskManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\R0m41\\AppData\\Roaming\\NuGet\\NuGet.Config",
