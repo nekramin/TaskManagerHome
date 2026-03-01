@@ -1,0 +1,15 @@
+C:\Users\R0m41\OneDrive\Документы\Projects\TaskManagerHome\obj\Debug\net10.0\TaskManagerHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R0m41\OneDrive\Документы\Projects\TaskManagerHome\obj\Debug\net10.0\TaskManagerHome.AssemblyInfoInputs.cache
+C:\Users\R0m41\OneDrive\Документы\Projects\TaskManagerHome\obj\Debug\net10.0\TaskManagerHome.AssemblyInfo.cs
+C:\Users\R0m41\OneDrive\Документы\Projects\TaskManagerHome\obj\Debug\net10.0\TaskManagerHome.csproj.CoreCompileInputs.cache
+C:\Users\R0m41\OneDrive\Документы\Projects\TaskManagerHome\obj\Debug\net10.0\TaskManagerHome.sourcelink.json
+C:\Users\R0m41\OneDrive\Документы\Projects\TaskManagerHome\bin\Debug\net10.0\TaskManagerHome.exe
+C:\Users\R0m41\OneDrive\Документы\Projects\TaskManagerHome\bin\Debug\net10.0\TaskManagerHome.deps.json
+C:\Users\R0m41\OneDrive\Документы\Projects\TaskManagerHome\bin\Debug\net10.0\TaskManagerHome.runtimeconfig.json
+C:\Users\R0m41\OneDrive\Документы\Projects\TaskManagerHome\bin\Debug\net10.0\TaskManagerHome.dll
+C:\Users\R0m41\OneDrive\Документы\Projects\TaskManagerHome\bin\Debug\net10.0\TaskManagerHome.pdb
+C:\Users\R0m41\OneDrive\Документы\Projects\TaskManagerHome\obj\Debug\net10.0\TaskManagerHome.dll
+C:\Users\R0m41\OneDrive\Документы\Projects\TaskManagerHome\obj\Debug\net10.0\refint\TaskManagerHome.dll
+C:\Users\R0m41\OneDrive\Документы\Projects\TaskManagerHome\obj\Debug\net10.0\TaskManagerHome.pdb
+C:\Users\R0m41\OneDrive\Документы\Projects\TaskManagerHome\obj\Debug\net10.0\TaskManagerHome.genruntimeconfig.cache
+C:\Users\R0m41\OneDrive\Документы\Projects\TaskManagerHome\obj\Debug\net10.0\ref\TaskManagerHome.dll
